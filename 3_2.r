@@ -1,5 +1,5 @@
 # The linkedin and facebook vectors have already been created for you
-linkedin <- c(16, 9, 13, 5, 2, 17, 14)
+linkedin <- c(16, 9, 13, 5, 2, 17, 15)
 facebook <- c(17, 7, 5, 16, 8, 13, 14)
 
 # The interpret() can be used inside interpret_all()
